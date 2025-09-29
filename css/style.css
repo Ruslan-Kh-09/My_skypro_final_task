@@ -302,8 +302,8 @@ footer {
 
 .back-button {
             position: absolute;
-            top: 750px;
-            left: 155px;
+            top: 650px;
+            left: 100px;
             padding: 10px 195px;
             background-color:  rgba(175,133,255,1);
             border-radius: 6px;
